@@ -7,12 +7,14 @@
   - [第一周实验报告LaTex原项目](https://github.com/uuukyoo/systools/blob/main/week1/data/lab1report.zip)
 
   - [LaTex进行文档编辑部分实验相关代码](https://github.com/uuukyoo/systools/blob/main/week1/data/lab1report.zip)
-
 - [x] [第二周](https://github.com/uuukyoo/systools/tree/main/week2)：Shell工具和脚本、编辑器(vim)、数据整理；课后练习及实验报告
+- [第二周实验报告](https://github.com/uuukyoo/systools/blob/main/week2/lab2report.pdf)
+  
+- [第二周实验报告LaTex原项目](https://github.com/uuukyoo/systools/tree/main/week2/lab2report)
+- [x] 第三周：命令行环境、Python入门基础、python视觉应用；课后练习及实验报告
+  - [第三周实验报告](https://github.com/uuukyoo/systools/blob/main/week3/lab3report.pdf)
 
-  - [第二周实验报告](https://github.com/uuukyoo/systools/blob/main/week2/lab2report.pdf)
+  - [第三周实验报告LaTex原项目](https://github.com/uuukyoo/systools/blob/main/week3/lab3report.zip)
 
-  - [第二周实验报告LaTex原项目](https://github.com/uuukyoo/systools/tree/main/week2/lab2report)
-
-- [ ] 第三周：
-
+  - [第三周python相关代码](https://github.com/uuukyoo/systools/tree/main/week3/week3pycode)
+- [ ] 第四周：
