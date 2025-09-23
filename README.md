@@ -16,4 +16,10 @@
   - [第三周实验报告LaTex原项目](https://github.com/uuukyoo/systools/blob/main/week3/lab3report.zip)
 
   - [第三周python相关代码](https://github.com/uuukyoo/systools/tree/main/week3/week3pycode)
-- [ ] 第四周：
+- [x] 第四周：调试及性能分析、元编程演示实验、PyTorch编程；课后练习及实验报告
+  - [第四周实验报告](https://github.com/uuukyoo/systools/blob/main/week4/lab4report.pdf)
+  - [第四周实验相关代码数据](https://github.com/uuukyoo/systools/tree/main/week4/data)
+
+---
+
+四周实验均已完成
