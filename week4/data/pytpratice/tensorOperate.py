@@ -1,0 +1,15 @@
+import torch
+a = torch.randn(3, 4)
+b = torch.randn(3, 4)
+print('a:\n', a)
+print('b:\n', b)
+print('a + 5:\n', a+5)
+print('b * 2:\n', b*2)
+print('b元素的和:\n', b.sum())
+print('a + b逐元素相加:\n', a+b)
+print('a * b逐元素相乘:\n', a*b)
+print('a, b矩阵乘法:\n',torch.matmul(a, b.T))
+print('a转置:\n', a.t())
+print('a展平:\n', a.flatten())
+print('a:\n', a.shape)
+
